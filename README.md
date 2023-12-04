@@ -13,6 +13,8 @@ To begin using the Library Management System, follow the steps below:
    make to compile
    make run to run
    make clean to clean (This cleans both compiled files and serialized data)
+## Note
+There are two jar files in this project. These are additional java Internet files that were needed for compiling and running the email notification system.
 ## Features
 
 ### User Authentication
